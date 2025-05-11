@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+main{
+    display: flex;
+    text-align: center  ;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+p{
+    height: 300px;
+    width: 300px;
+}
